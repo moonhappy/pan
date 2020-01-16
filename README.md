@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.jpg" alt="PAN logo" width="1100" height="551">
+<img src="logo.jpg" alt="PAN logo" width="700" height="351">
 </p>
 
 Simple yet highly configurable Media Center platform
